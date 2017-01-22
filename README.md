@@ -1,2 +1,2 @@
 # webpack-learning
-A simple exmple for learning webpack
+A sample for learning webpack
